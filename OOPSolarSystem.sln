@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPSolarSystem", "OOP Solar System\OOPSolarSystem.csproj", "{B373D582-0FC8-491C-B509-A57ACD845012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerAndOuter", "InnerAndOuter\InnerAndOuter.csproj", "{054C2D83-FD45-4C21-942F-2BEF91BAEFB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B373D582-0FC8-491C-B509-A57ACD845012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B373D582-0FC8-491C-B509-A57ACD845012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B373D582-0FC8-491C-B509-A57ACD845012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B373D582-0FC8-491C-B509-A57ACD845012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054C2D83-FD45-4C21-942F-2BEF91BAEFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054C2D83-FD45-4C21-942F-2BEF91BAEFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054C2D83-FD45-4C21-942F-2BEF91BAEFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054C2D83-FD45-4C21-942F-2BEF91BAEFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {135D0504-81A4-48DD-93D1-AAE0B9ED5CC1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\bin\Debug\netcoreapp3.1\InnerAndOuter.exe
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\bin\Debug\netcoreapp3.1\InnerAndOuter.deps.json
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\bin\Debug\netcoreapp3.1\InnerAndOuter.runtimeconfig.json
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\bin\Debug\netcoreapp3.1\InnerAndOuter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\bin\Debug\netcoreapp3.1\InnerAndOuter.dll
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\bin\Debug\netcoreapp3.1\InnerAndOuter.pdb
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\obj\Debug\netcoreapp3.1\InnerAndOuter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\obj\Debug\netcoreapp3.1\InnerAndOuter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\obj\Debug\netcoreapp3.1\InnerAndOuter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\obj\Debug\netcoreapp3.1\InnerAndOuter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\obj\Debug\netcoreapp3.1\InnerAndOuter.dll
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\obj\Debug\netcoreapp3.1\InnerAndOuter.pdb
+C:\Users\opilane\source\repos\OOP Solar System\InnerAndOuter\obj\Debug\netcoreapp3.1\InnerAndOuter.genruntimeconfig.cache
